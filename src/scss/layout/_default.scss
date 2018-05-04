@@ -2,8 +2,14 @@
     Layout
 -------------------------------*****/
 
-.l-header {}
+.l-header {
+    display: flex;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
 
-.l-container {}
+.l-container {
+    padding: 0 5%;
+}
 
 .l-footer {}
